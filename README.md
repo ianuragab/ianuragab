@@ -1,63 +1,58 @@
-<!-- Title -->
 ### Hi there 👋, I'm Anurag Bhardwaj!
 
-<!-- Short description or tagline -->
-I'm a passionate software developer with a keen interest in building scalable, efficient, and user-centric applications.
+**Frontend Developer | [cite_start]React & Next.js Specialist** I am a performance-driven developer with over 2 years of experience building scalable B2B web applications[cite: 5]. [cite_start]I specialize in architecting high-efficiency frontend systems and optimizing user experiences for large-scale platforms[cite: 6, 13].
 
-<!-- Badges: followers, stars, visitors -->
 ![GitHub followers](https://img.shields.io/github/followers/ianuragab?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/ianuragab?style=social)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ianuragab.ianuragab)
 
 ---
 
-<!-- About Me Section -->
-### About Me
+### 🚀 Professional Background
 
-- 🌱 I’m currently learning **[your current focus]**.
-- 👯 I’m looking to collaborate on **[project types or tech]**.
-- 💬 Ask me about **[your expertise or favorite topics]**.
-- 📫 How to reach me: **anuragbhardwaj3108@gmail.com**.
-- ⚡ Fun fact: **[interesting fact about you]**.
+- [cite_start]💼 Currently working at **Bijnis**, scaling core B2B flows and internal dashboards[cite: 9, 11, 21].
+- [cite_start]🌱 I’m currently deep-diving into **React Native** for mobile-web integration[cite: 19].
+- 👯 I’m looking to collaborate on **Frontend System Design** and **Open Source React Libraries**.
+- [cite_start]💬 Ask me about **Performance Optimization (Code Splitting, Memoization)** and **State Management**[cite: 7, 31].
+- [cite_start]📫 Reach me at: **anuragbhardwaj3108@gmail.com**[cite: 3].
+- [cite_start]⚡ Fun fact: I enjoy transforming complex Figma designs into pixel-perfect, interactive code[cite: 26, 34].
 
 ---
 
-<!-- GitHub Stats -->
-### GitHub Stats
+### 🛠 Tech Stack & Tools
+
+**Frontend:**
+![React](https://img.shields.io/badge/-React.js-61DAFB?style=flat&logo=react&logoColor=white) 
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white) 
+![Redux](https://img.shields.io/badge/-Redux%20Toolkit-764ABC?style=flat&logo=redux&logoColor=white) 
+![Zustand](https://img.shields.io/badge/-Zustand-443333?style=flat) 
+![JavaScript](https://img.shields.io/badge/-JavaScript%20(ES6+)-F7DF1E?style=flat&logo=javascript&logoColor=black) 
+![Tailwind](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
+
+**Backend & Tools:**
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) 
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) 
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white) 
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ianuragab&show_icons=true&theme=radical)
-
-<!-- Top Languages -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ianuragab&layout=compact&theme=radical)
 
 ---
 
-<!-- Projects Section -->
-### Projects
+### 🌟 Featured Projects
 
-Here are some of my favorite projects:
-
-- [**Project 1**](https://github.com/ianuragab/project1): A brief description of what this project does.
-- [**Project 2**](https://github.com/ianuragab/project2): Another cool project description.
-- [**Project 3**](https://github.com/ianuragab/project3): Highlight a unique feature of this project.
+- [cite_start][**Bijnis Retailer Web**](https://github.com/ianuragab): Architected B2B flows including search, filtering, and order placement[cite: 11, 13].
+- [cite_start][**Disha WebView & Dashboards**](https://github.com/ianuragab): Developed data-heavy internal tools with advanced UI patterns like scroll pagination[cite: 17, 20].
+- [cite_start][**Full-Stack Auth & CRUD**](https://github.com/ianuragab): Scalable backend integration using Node.js, Express, and MongoDB[cite: 27, 32].
 
 ---
 
-<!-- Technologies Section -->
-### Tech Stack & Tools
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code)&nbsp;
-
----
-
-<!-- Connect with Me Section -->
-### Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/ianuragab/)
-- [Portfolio](https://your-portfolio-link.com)
+### 🔗 Connect with Me
+- [cite_start][LinkedIn](https://www.linkedin.com/in/ianuragab/) [cite: 4]
+- [cite_start][Portfolio](https://ianuragab-portfolio.vercel.app) [cite: 4]
