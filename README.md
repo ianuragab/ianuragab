@@ -11,7 +11,7 @@ I am a performance-driven developer with over 2 years of experience building sca
 - ⚡ **Performance Expert**: Proven track record in improving load times using Code Splitting, Lazy Loading, and Memoization.
 - 🎨 **Pixel Perfect**: Specialized in transforming complex Figma designs into responsive, accessible, and interactive code.
 - 🌱 **Learning**: Currently deep-diving into **React Native** for cross-platform mobile development.
-- 📫 **Reach Me**: [anuragbhardwaj3108@gmail.com](mailto:anuragbhardwaj3108@gmail.com)
+- 📫 **Reach Me**: [im.anurag.bhardwaj@gmail.com](mailto:im.anurag.bhardwaj@gmail.com)
 
 ---
 
@@ -47,7 +47,7 @@ I am a performance-driven developer with over 2 years of experience building sca
 
 <p align="left">
 <a href="https://www.linkedin.com/in/ianuragab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ianuragab" height="30" width="40" /></a>
-<a href="https://ianuragab-portfolio.vercel.app" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="30" /></a>
+<a href="anuragdev-omega.vercel.app" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="30" /></a>
 </p>
 
 ---
