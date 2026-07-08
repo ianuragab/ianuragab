@@ -46,8 +46,8 @@ I am a performance-driven developer with over 2 years of experience building sca
 ### 🔗 Connect with Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/ianuragab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ianuragab" height="30" width="40" /></a>
-<a href="anuragdev-omega.vercel.app" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="30" /></a>
+<a href="https://www.linkedin.com/in/ianuragab/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ianuragab" height="30" width="40" /></a>
+<a href="https://anuragdev-omega.vercel.app/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://anuragdev-omega.vercel.app/images/abLogo.png" height="30" /></a>
 </p>
 
 ---
